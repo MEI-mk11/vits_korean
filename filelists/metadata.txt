@@ -1,0 +1,451 @@
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0000.wav|0|그는 괜찮은 척하려고 S는 것 같았다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0001.wav|0|그녀의 사랑을 얻기 위해 애써지만 호수고였다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0002.wav|0|용뚬을 아켰어 나
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0003.wav|0|그는 아내를 많이 아끼는다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0004.wav|0|그의 전화분 알아?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0005.wav|0|차이대에 잘 아세요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0006.wav|0|거기 도착하면 난 다 알려줘
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0007.wav|0|그들은 내가 시험에 떨어졌다고 알려왔다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0008.wav|0|나는 살아오면서 감기를 아른 적이 한 번도 없다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0009.wav|0|설동안 심하게 몸살을 알았어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0010.wav|0|요즘 공부가 안 돼요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0011.wav|0|장사가 잘 안 돼서 우울해.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0012.wav|0|아무것도 먹지 않으면 좋게 되어있다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0013.wav|0|그녀는 이유를 묻지 않고 돈을 빌려주었다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0014.wav|0|내가 아기를 안고 있을게
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0015.wav|0|엄마는 말 없이 나를 꼭 안아주셨다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0016.wav|0|자리에 앉으세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0017.wav|0|한 여자가 내역해 앉았다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0018.wav|0|1일 새 전화를 해서 번호를 알아보시지 그러세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0019.wav|0|내가 누군지 알아보겠니?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0020.wav|0|그는 절대 다른 사람의 의견을 받아들이지 않는다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0021.wav|0|아이들도 언젠가는 그 면을 엄마를 받아들일거야.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0022.wav|0|어디에서 영어를 배우셨어요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0023.wav|0|동료에게서 수아를 배우고 있습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0024.wav|0|이거 다른 걸로 바쁠 수 있을까요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0025.wav|0|색깔을 바꾸는 게 나올 것 같다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0026.wav|0|소향이 좀 바꿔주세요
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0027.wav|0|눈이 얼음을 바뀌었어.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0028.wav|0|핸드폰이 니거랑 바뀐 것 같아.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0029.wav|0|그 차는 들판에 버려진 채 발견됐다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0030.wav|0|이번 달 초의 상호대가 해안가에서 발견됐다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0031.wav|0|오프어를 발견하시는 분께 살해하겠습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0032.wav|0|결국 그의 개가 그의 시신을 발견했다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0033.wav|0|정신 분석학은 20세기에 급격히 발전했다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0034.wav|0|한국어 실력이 날이가 이스로 발전하는 것을 보니 기쁩니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0035.wav|0|죄송하지만 제 이름을 밝힐 수는 없어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0036.wav|0|정전이 돼요. 축부를 밝혔다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0037.wav|0|모두가 시험의 통과의 쌤을 발표하게 돼요. 깊으길 생각합니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0038.wav|0|그 밴드는 첫 음반을 발표한 직후에 해체했다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0039.wav|0|화제가 발생하지 않도록 조심해라.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0040.wav|0|어제 일본에서 태풍이 발생했다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0041.wav|0|돌고래는 진행이 발달했다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0042.wav|0|이 지역에는 농업이 발달했어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0043.wav|0|그녀는 내 제안에 반대했다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0044.wav|0|저는 무력 사용을 반대합니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0045.wav|0|밤 늦게 남해집을 방문하는 것은 실예다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0046.wav|0|저희 회사에 방문해주셔서 감사드립니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0047.wav|0|너는 브레이크를 너무 세게 발바
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0048.wav|0|어떤 남자가 취하철에서 내 발을 바꾸 모른 척했다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0049.wav|0|그녀는 호기심으로 가득 찬 눈으로 나를 바라보았다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0050.wav|0|이 문제는 제 3자의 시각에서 바라볼 필요가 있어.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0051.wav|0|저한테 너무 많은 걸 바라지 마세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0052.wav|0|빨리 나오시길 바랍니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0053.wav|0|입술에 침이나 바르고 말해.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0054.wav|0|선크림을 발랐어야지
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0055.wav|0|나는 생일 선물로 책을 받았다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0056.wav|0|신용카드를 봤나요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0057.wav|0|스트레스 받는 일 있어?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0058.wav|0|어떻게 그렇게 돈을 보셨어요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0059.wav|0|한 달에 300만 원을 법니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0060.wav|0|입을 벌려보세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0061.wav|0|지하철에서 다리를 벌리고 앉지 마라.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0062.wav|0|벽 사이에 벌어진 틈이 있어.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0063.wav|0|그 법안을 놓고 멸다툼이 벌어졌어.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0064.wav|0|담배 공출을 여기에 버리지 마세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0065.wav|0|돈을 다 써버렸어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0066.wav|0|내년 아버지 환갓 때 잔출을 버릴 거야.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0067.wav|0|오늘 아침 아내랑 말다툼을 버렸어.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0068.wav|0|관한에서 벗어나려면 습관부터 바꿔라.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0069.wav|0|복잡한 도시 지역을 벗어나니 참 좋군요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0070.wav|0|왜 투 버스실래요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0071.wav|0|신발이 너무 꽉 껴서 벗을 수가 없어요
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0072.wav|0|아침에 빛이 빛이 있는 걸 보니 상쾌하군.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0073.wav|0|커튼 넘어에 누군가의 그림자가 빛었다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0074.wav|0|램프가 그의 작품을 비추게 배추되어 있었다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0075.wav|0|아침마다 네 얼굴을 거울에 비쳐봐요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0076.wav|0|끔고는 이미 비어 있었다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0077.wav|0|이 자리는 비었습니까?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0078.wav|0|우리는 서로 답을 비교해 보았다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0079.wav|0|부모가 저지르는 큰 실수증 하나는 자기 아일을 다른 지바이와 비교하는 것이다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0080.wav|0|이틀 동안 차를 빌리고 싶은데요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0081.wav|0|안에게서 돈을 빌린다는 것은 좀 이상해요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0082.wav|0|다이아몬드가 눈부식에 빛나고 있었다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0083.wav|0|모든 창에서 춥불이 반짝반짝 빛나고 있었다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0084.wav|0|영어보러 갈까?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0085.wav|0|오늘 우연히 길에서 그 여자를 봤어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0086.wav|0|제가 해볼게요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0087.wav|0|어디선가 밴분 같아요
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0088.wav|0|지난 번의 배우 오랜만에 뵙습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0089.wav|0|그거 맛있어 보이네?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0090.wav|0|그는 나의 예비에 정말 젊어보인다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0091.wav|0|그녀가 나에게 사진 몇 장을 보여줬다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0092.wav|0|조민 등록증을 보여주시겠어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0093.wav|0|김치가 맛이 없어서 볶았어.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0094.wav|0|고기를 기름해 복지 마라.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0095.wav|0|이 소포를 뉴욕으로 보내고 싶은데요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0096.wav|0|선생님께 한 번 보내드리겠습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0097.wav|0|휴가 잘 보내세요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0098.wav|0|그녀는 짐 하나하나의 이름표를 붙였다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0099.wav|0|침으로 편집홍트에 우표를 붙이지 마세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0100.wav|0|우리는 파티 준비를 위해 풍선을 부렸다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0101.wav|0|바람이 많이 부러.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0102.wav|0|경찰 좀 불러주세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0103.wav|0|사람들은 그를 개울은 천재라고 부른다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0104.wav|0|노래한 곡 부르세요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0105.wav|0|여행사에 요약을 부탁하는 게 어때?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0106.wav|0|엄마한테 도와달라고 부탁해 봐.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0107.wav|0|냄비의 무릎을 알아.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0108.wav|0|위를 좀 부어 봐
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0109.wav|0|신발 밑창의 검이부터.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0110.wav|0|저는 운전 면나 시험에 3번 만에 붙었어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0111.wav|0|밤이 되면 그녀는 대물로 변한다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0112.wav|0|전혀 안 변하셨네요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0113.wav|0|그는 점차 내목한 지도자로 변화했다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0114.wav|0|지구가 빠르게 변화하고 있다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0115.wav|0|그는 공을 찾은 척하면서 상대 선시를 찾다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0116.wav|0|그녀는 7년간 사귄 남자친구를 차버리고 딴 남자랑 결혼했다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0117.wav|0|소재품을 잘 챙기세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0118.wav|0|엄마는 앞발을 엄청 챙기신다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0119.wav|0|빈칸을 채우시오
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0120.wav|0|기름을 가득 채워주세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0121.wav|0|제 자네는 물을 반반 채워주세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0122.wav|0|인터넷 찾아 봤어?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0123.wav|0|다 찾아봤지만 찾을 수가 없어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0124.wav|0|내일 대구로 찾아가겠습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0125.wav|0|내일까지 짐을 찾아가셔야 해요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0126.wav|0|도움이 필요하면 나를 찾아와.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0127.wav|0|은행에서 돈 찾아와야 해.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0128.wav|0|많은 배우들이 그 시상식에 참석하지 않았다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0129.wav|0|갑자기 시부모님이 오셔서 모임에 참석하지 못했어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0130.wav|0|웃음의 채몰 수가 없었어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0131.wav|0|더 이상은 못 참아.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0132.wav|0|엄마랑 아빠는 항상 같이 상을 차리세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0133.wav|0|얼른 기운 차례셔야죠.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0134.wav|0|교차를 해서 저를 찾을 수 있을 거예요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0135.wav|0|이 책을 찾고 있어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0136.wav|0|아기는 소리가 나는 쪽을 쳐다본다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0137.wav|0|그런 식으로 사람을 많이 쳐다보지 마
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0138.wav|0|나는 1년에 한 번 우리집 화장실을 청소한다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0139.wav|0|창문은 멜로 청소하나요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0140.wav|0|그는 내 얼굴을 쳐서 자기 손목을 삐었다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0141.wav|0|탠이스를 치다가 발목을 띄었어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0142.wav|0|오늘 시험 잘 쳤어요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0143.wav|0|이번 주말 내 생일에 너를 초대하고 싶은데
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0144.wav|0|그녀는 나를 자기 집으로 초대했다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0145.wav|0|날선 사람들 앞에서 춤을 추는 건 나한테는 정말 어려운 일이야.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0146.wav|0|그녀와 나는 음악에 맞추어 탕고를 쳤다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0147.wav|0|결혼 축하해!
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0148.wav|0|하라보지의 회가를 축하하는 잔치를 열었다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0149.wav|0|그 사람은 한 시간 전에 여구로 출발했어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0150.wav|0|이 여기서 출발하는 사람 중에는 군인이 많아.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0151.wav|0|이 기차는 부산을 세시에 출발합니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0152.wav|0|지금 춤출기본이 아니야.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0153.wav|0|오늘 밤에 춤출어갈까요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0154.wav|0|소주 5명에 결국 취하고 말았다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0155.wav|0|난 취했어.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0156.wav|0|내가 한 말 취소하겠어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0157.wav|0|죄송하지만 예약을 추사하고 싶어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0158.wav|0|어제 농구를 하다 코를 다쳤어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0159.wav|0|어쩌도 다친거야?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0160.wav|0|이문은 잘 안 닫혀요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0161.wav|0|컴퓨터가 멈춰서 창이 다치지 않아.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0162.wav|0|카드를 단말기 위해 되세요
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0163.wav|0|그렇게 먹어되니까 살이 안 빠지지
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0164.wav|0|질문에 대답하세요
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0165.wav|0|어른들에게는 예나 아니오라고 대답해야 합니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0166.wav|0|그녀는 나를 딸처럼 대한다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0167.wav|0|이 문제에 대해 말해볼 사람?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0168.wav|0|그계는 나 손 사람이 다가가면 짓는다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0169.wav|0|내가 그녀에게 다가가자. 그녀의 얼굴이 창백해졌다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0170.wav|0|폭풍이 다가오자 하늘이 어두워졌다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0171.wav|0|그녀가 네 개 다가왔다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0172.wav|0|그는 힘이 닿을 때까지 계속 소리쳤다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0173.wav|0|부모님을 실망시키지 않기 위해 최선을 다하겠다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0174.wav|0|자기 전에 이당는 거 잊지 마라.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0175.wav|0|바닥을 닦아라
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0176.wav|0|블라우스의 브로치를 달았다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0177.wav|0|태극기를 다세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0178.wav|0|엄마가 돌아가신 후 모든 것이 달라졌어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0179.wav|0|저는 안에 덕분에 많이 달라졌습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0180.wav|0|그는 결승점을 향해 전속력으로 달렸다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0181.wav|0|그 오토바이는 시속 60킬로 달렸어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0182.wav|0|보도가 나무에 달려 있었다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0183.wav|0|너한테 달렸어.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0184.wav|0|안 내를 넣고 경허드로 달려갔다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0185.wav|0|따라에 있는 저한테 혼나고 나면 엄마한테 달려가요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0186.wav|0|그를 새 물이 담겨있어.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0187.wav|0|부모님의 고중에는 사랑이 담겨 있다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0188.wav|0|너는 내가 아는 어떤 사람이랑 많이 닮았어
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0189.wav|0|그들은 아주 친한 사이어서 서로를 닮아가고 있다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0190.wav|0|방금 상지에 담아 눈책이 없어졌어.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0191.wav|0|고객이 감사의 마음을 담윤 편지를 보내 왔어.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0192.wav|0|바추를 너무 세게 당겨서 끊어줬어
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0193.wav|0|문을 당겨서 여세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0194.wav|0|내 동생이 어제 교통사고를 당했죠.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0195.wav|0|그는 자기 부어들 앞에서 창필을 당했다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0196.wav|0|어느 학교에 다녔어요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0197.wav|0|학생이세요? 아니면 직장을 다니세요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0198.wav|0|아버지는 일요일이면 사장을 다니세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0199.wav|0|학교 다녀왔어요
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0200.wav|0|추석에는 많은 사람들이 고양을 다녀온다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0201.wav|0|용의자는 부산으로 달아났다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0202.wav|0|도둑은 개를 보고는 달아났습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0203.wav|0|신문 좀 내려주실래요? 선발의 손이 안 다해서요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0204.wav|0|저희 집은 여기에서 엎어주면 코딸 때 있어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0205.wav|0|창문을 좀 닫아도 될까요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0206.wav|0|저희 가게는 밤 10시에 문을 닫습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0207.wav|0|마음속으로 생각한 수에 이를 더하세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0208.wav|0|3도하기 4는 7일.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0209.wav|0|옆모습 도를 던지지 마세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0210.wav|0|도수는 타자가 아닌 포수에게 공을 던져야 한다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0211.wav|0|책을 덮으세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0212.wav|0|커블 종이로 덮어두워라.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0213.wav|0|7시쯤에 너를 데리러 갈게
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0214.wav|0|그는 딸을 데리고 회사에 왔다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0215.wav|0|이 남자 병원에 데려가야 해.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0216.wav|0|오늘 여자친구를 부모님께 데려갈거야.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0217.wav|0|집들이 때 회사 사람들 집에 데려와도 돼?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0218.wav|0|그때 그女가 의사를 데려오지 않았으면 나는 죽었을 거야.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0219.wav|0|그 날을 잃는데 인원이 들었어.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0220.wav|0|비타민 씨가 많이 들어있는 과일을 드세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0221.wav|0|감기된 거니?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0222.wav|0|무거운 것을 되다 허리를 빛끝했다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0223.wav|0|왼손에 우산을 듣는女자가 내 아네요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0224.wav|0|사무실에 잠깐 들러주실 수 있으세요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0225.wav|0|어제 주요소를 들려서 기름에 가득 채웠습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0226.wav|0|제발이 들리세요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0227.wav|0|당신 제안은 상미롭게 들리네요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0228.wav|0|눈에 뭔가가 들어갔어요
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0229.wav|0|열쇠를 잃어버려서 창문으로 집에 들어갔다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0230.wav|0|그들의 온몰가 드러나고 있다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0231.wav|0|그것이 사실이 미 드러났다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0232.wav|0|그녀가 새해한 일을 드러내면서 웃었다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0233.wav|0|방금 니가 한 마른 너의 무지를 드러내는거야
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0234.wav|0|이곳에 들어오시면 안 됩니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0235.wav|0|오늘은 집으로 일찍 들어와야?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0236.wav|0|길을 잘못들어선 것 같아요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0237.wav|0|이 지역의 새 아파트가 여기저기 들어와서고 있다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0238.wav|0|제가 전에 명암을 드렸나요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0239.wav|0|읽어드리겠습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0240.wav|0|나는 문을 열고 교회의 안을 들여다봤다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0241.wav|0|그 사람은 하루 종일 현미경을 들여다봐.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0242.wav|0|나는 음악을 듣다 잠이 들었다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0243.wav|0|제멜 듣고 계세요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0244.wav|0|몇 시에 인천에 도착하셨어요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0245.wav|0|도착하면 알려줘.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0246.wav|0|나는 10년 뒤에는 부자가 될 거야.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0247.wav|0|저는 친구를 사랑하게 되었어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0248.wav|0|애완견 돌보는 걸 좋아해요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0249.wav|0|우리 엄마는 우리를 돌보는 것 때문에 아침부터 반까지 바쁘아요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0250.wav|0|곧장 가다가 왼쪽으로 도세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0251.wav|0|지구는 태양을 돈다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0252.wav|0|채널 좀 그만 돌려라.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0253.wav|0|그녀는 나를 보자 맞아 차의 방향을 돌렸다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0254.wav|0|여기에서도 도망가자.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0255.wav|0|그는 자기 안해를 죽이고 해외로 도망갔다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0256.wav|0|뭘 좋아 드릴까요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0257.wav|0|하늘은 스스로 돕는 자를 돕는다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0258.wav|0|그 사람은 뒤를 돌아보지 않고 차에 올랐다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0259.wav|0|연말에는 하늘을 돌아볼 필요가 있다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0260.wav|0|제 꿈은 한국으로 돌아가린 거예요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0261.wav|0|좀 전에 할머니가 돌아가셨다는 전화를 받았어.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0262.wav|0|그는 19살의 한국으로 돌아왔다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0263.wav|0|환자의 의식이 돌아왔어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0264.wav|0|제속제 좀 도와주세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0265.wav|0|도와주셔서 고맙습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0266.wav|0|이 약은 아이들 손이 닿지 않는 곳에 주세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0267.wav|0|수업 중에 휴대폰을 켜두지 마세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0268.wav|0|이 제약 주변을 둘러보고 싶어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0269.wav|0|그냥 둘러보는 거예요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0270.wav|0|적군이 그를 둘러 썼다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0271.wav|0|이 문제를 둘러싸고 많은 논의가 있었다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0272.wav|0|이 얼룩으로 없을 수 있을까요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0273.wav|0|그렇다면 그 자를 없애
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0274.wav|0|이 옷집에서 망치를 하나 얻어 알아?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0275.wav|0|사점에서 아이디어는 좀 얻었어?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0276.wav|0|나쁜 친구와 어울려 다니지 마라.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0277.wav|0|이 넥타이는 당신에게 어울리지 않아요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0278.wav|0|저는 이를만다, 교회에 갑니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0279.wav|0|날이 건조해서 동작물이 죽어가요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0280.wav|0|상상력을 개발하고 싶으면 씨를 읽으세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0281.wav|0|정부는 이 제약을 관광주로 개발할 계획이라고 발표했다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0282.wav|0|그 옷은 세탁소로 가져가세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0283.wav|0|개인 물건들을 꼭 가져가십시오.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0284.wav|0|팬주 미리로 가져와자
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0285.wav|0|컴퓨터는 우리 생활의 엄청난 변화를 가져왔다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0286.wav|0|깜빡 있고 팬을 안 가지고 왔어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0287.wav|0|우리 부분은 아이를 갖지 않기로 결정했어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0288.wav|0|그쵸? 어디에 감춘거에요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0289.wav|0|왜 남자는 사실을 감추려고 한 겁니까?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0290.wav|0|이 자리에 와주신 여러분께 감사드립니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0291.wav|0|성원의 깊이 감사하고 있습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0292.wav|0|잠시만 눈 좀 감하다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0293.wav|0|저는 사진을 찍을 때 한쪽 눈을 감는 버릇이 있어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0294.wav|0|박스를 끈으로 감아라.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0295.wav|0|실수로 테이프를 너무 많이 감아 버렸다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0296.wav|0|선생님은 우리들에게 독서의 중요성을 늘 강조하셨어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0297.wav|0|태권도는 신지 뿐만 아니라 마음에 수련을 강조한다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0298.wav|0|옷을 좀 가라이거울게요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0299.wav|0|그녀는 수영복으로 갈아입은 다음 밖으로 나갔다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0300.wav|0|제 생각에는 버스를 가라타는 게 나올 것 같아요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0301.wav|0|차당력에서 사우 손으로 가라타세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0302.wav|0|저는 학생들을 가르치는 일을 좋아합니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0303.wav|0|외국인에게 택건도를 가르치고 있어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0304.wav|0|화살표가 북쪽을 가르치고 있다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0305.wav|0|시계는 7시를 가리키고 있어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0306.wav|0|그 호텔은 호화로운 시설들을 가지고 있다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0307.wav|0|저는 제 자신의 엄매호에 필요한 모든 자지를 갖추고 있다고 자신합니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0308.wav|0|감독 간의 시험지를 빨리 거둔 것 같아.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0309.wav|0|시험에서 좋은 성적을 거드려면 최선을 다해야 해.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0310.wav|0|그는 내게 자신이 그 외살 사장이라고 거짓말했다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0311.wav|0|고집 말하지 마세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0312.wav|0|저는 사수한 일은 걱정하지 않으려고 노력합니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0313.wav|0|저는 걱정하지 마세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0314.wav|0|옷걸이에 코트를 걸어라.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0315.wav|0|그녀에게 다가가서 말을 걸었습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0316.wav|0|전화 잘 못 거셨어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0317.wav|0|벽에 많은 옷이 걸려 있다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0318.wav|0|감기에 걸렸어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0319.wav|0|끝나려면 2시간쯤 걸릴 거예요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0320.wav|0|집에서 회사까지 지하철로 얼마나 걸려요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0321.wav|0|길을 건나면 은행이 있어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0322.wav|0|둘다리도 두드려보고 건나라.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0323.wav|0|보통은 회사에 그냥 걸어가야.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0324.wav|0|저쪽으로 걸어 가십시오.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0325.wav|0|여기까지 걸어왔어요
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0326.wav|0|우리가 얼마나 걸어온 거지?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0327.wav|0|맨 발로 거짓말아
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0328.wav|0|길을 겉다 좋은 생각이 떠올랐어요
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0329.wav|0|남음이 돼서 비가 그치기를 기다렸다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0330.wav|0|나를 보자 말자 아기는 우름을 그쳤어요
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0331.wav|0|예전일은 왜 그만드셨어요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0332.wav|0|저 그만 두겠습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0333.wav|0|저는 방순국에서 근마하고 있습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0334.wav|0|보통 하루에 몇 시간 금마하세요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0335.wav|0|그러는 게 좋을 것 같아.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0336.wav|0|그러지 않겠다고 약속했잖아.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0337.wav|0|저는 그림을 잘 못 그리지만 그림 그리는 걸 좋아해요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0338.wav|0|누구를 그리고 계신 거예요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0339.wav|0|선생님을 만나별 길을 기대하고 있습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0340.wav|0|너무 기대하지 마
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0341.wav|0|순서를 기다려주세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0342.wav|0|친구를 기다리는 중입니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0343.wav|0|아빠가 결혼 기념이를 기억하지 못해?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0344.wav|0|저를 기억하시겠어요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0345.wav|0|그 여자 나친 아주 이긴데 이름이 기억나지 않아요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0346.wav|0|저 기억나세요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0347.wav|0|어머님이 기빨시겠어요
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0348.wav|0|아직 익은 게 아니니까 기뻐하기는 이릅니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0349.wav|0|엄마, 고양이를 길게 해주세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0350.wav|0|턱수염에 기린 적이 있어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0351.wav|0|집중력을 기르는 것이 공부를 잘하는 비결입니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0352.wav|0|저는 일기장에 하루 동안 있었던 일을 모두 기록합니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0353.wav|0|한국의 자동자 산업은 세계 3위를 기록하고 있습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0354.wav|0|몸을 옆으로 기울여보세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0355.wav|0|나는 대체로 선생님의 말씀을 주의를 기울이지 않았다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0356.wav|0|이 라디오 고추는데 얼마나 걸릴까요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0357.wav|0|다음 문장에서 틀린 부분을 고치세요
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0358.wav|0|미주친 부분을 모두 이틀릭으로 고차라.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0359.wav|0|저는 대학에서 공문학을 공부할 거예요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0360.wav|0|가을은 1년 중 공부하기의 제일 좋은 계절이다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0361.wav|0|이 중에서 하나를 고르세요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0362.wav|0|제일 좋은 걸 고르셨어요
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0363.wav|0|제 나이를 좀 고려해 주셨으면 좋겠어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0364.wav|0|모든 점을 고려했을 때 가지 않는 게 낫다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0365.wav|0|왜 사소 고생해?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0366.wav|0|여기 오신 분의 고생하지 않으셨어요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0367.wav|0|부산은 구경을 곳이 많아요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0368.wav|0|어디를 구경하고 싶으세요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0369.wav|0|일자리를 구하고 있습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0370.wav|0|직장은 구하셨어요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0371.wav|0|그 개는 주인을 구하기 위해 강으로 뛰어들었다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0372.wav|0|그 이사가 그녀의 목숨을 구해냈다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0373.wav|0|엄마는 빵을 굽고 계세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0374.wav|0|나는 소시지를 기름에 튀기는 것보다 석세에 굽는 걸 좋아해.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0375.wav|0|축구는 11명으로 구성되어 있습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0376.wav|0|이 문제 때문에 위원회가 구성됐습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0377.wav|0|이번 사건으로는 마약과 관련되어 있다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0378.wav|0|그일은 내 동생과 관련돼있어.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0379.wav|0|내 취미는 길거리의 사람들을 관찰하는 거야.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0380.wav|0|그 이상한 남자는 개미에 대해 관찰하면서 즐거움을 찾았다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0381.wav|0|저는 그 사고에 관해 아는 것이 없습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0382.wav|0|한국에 관한 책들은 어디에 있나요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0383.wav|0|저는 어려웠을 때 많은 어려움을 겪었어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0384.wav|0|저희 부분은 결혼한 직후에 한 차례 위기를 겪었습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0385.wav|0|그와 결혼하기로 마음 먹었다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0386.wav|0|저희 막 결혼했어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0387.wav|0|아무것도 결정된 건 없어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0388.wav|0|학교 이사회에서 글을 해고하기로 결정됐다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0389.wav|0|어디로 피설을 갈지 아직 결정하지 못했어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0390.wav|0|14위원들이 그를 우승자로 결정했어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0391.wav|0|이혼을 결심했다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0392.wav|0|좀 더 다이어트를 엄격하게 하기로 결심했어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0393.wav|0|이민자들은 육체적 정신적 고통을 견뎌왔다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0394.wav|0|더 이상 못 견딜겠죠.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0395.wav|0|저는 한국에 오자마자 문화적 충격을 경험했어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0396.wav|0|그는 한국에 여러 다른 생활 방식을 경험할 수 있었다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0397.wav|0|제가 잘못게 사닐나봐요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0398.wav|0|카드로 계산하겠습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0399.wav|0|지금 여기에 앉으세요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0400.wav|0|사장님이 기다리고 계십니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0401.wav|0|엄마는 병원에 누워 계세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0402.wav|0|우리는 밤새도록 얘기를 계속했습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0403.wav|0|그는 계속해서 새로운 변명거리를 만들어 냈다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0404.wav|0|이렇게 무더운 날씨가 오래 계속되지는 않을 거예요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0405.wav|0|회가 반듣도록 계속 됐다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0406.wav|0|지금 당장은 할 일이 없어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0407.wav|0|숙제는 언제 할 거니?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0408.wav|0|이 문제를 해결하기 전에는 집에 못 가.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0409.wav|0|직장 상서와의 갈등은 어떻게 해결하세요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0410.wav|0|안에는 나를 보고 기쁨의 눈물을 하렸다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0411.wav|0|여쒸를 어디에 흘린 거야
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0412.wav|0|우리는 텐버린을 흔들면서 같이 노래를 불렀다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0413.wav|0|그녀는 아니라고 말하는 대신 고개를 흔들었다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0414.wav|0|물은 높은 곳에서 낮은 곳으로 흐른다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0415.wav|0|시간이 흐르면 괜찮아질거야.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0416.wav|0|이 가방산걸 호의하고 있어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0417.wav|0|그때 그女을 차버린 걸 지금은 후회해요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0418.wav|0|그들은 영수증을 확인하고 돈을 함부래 주었다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0419.wav|0|예약을 확인하고 싶은데요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0420.wav|0|빈방을 창고로 활용하고 있어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0421.wav|0|성공은 시간을 어떻게 활용하는가에 달려 있다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0422.wav|0|아빠가 화나신 것 같아.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0423.wav|0|나한테 화났어?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0424.wav|0|이편은 일본을 향하고 있습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0425.wav|0|창문을 향해 앉아주세요
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0426.wav|0|이번에는 너에게 꼭 이기고 싶어.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0427.wav|0|어려움을 의견해지 못하면 성공할 수 없어.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0428.wav|0|그 연구군 이야기가 어려웠다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0429.wav|0|교사는 학생들을 2R 필요가 있습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0430.wav|0|실은 나 한 달 전에 이온했어.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0431.wav|0|부모님의 이혼하신 이유로 엄마랑 살고 있어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0432.wav|0|야 오랜만이야 얼굴 잊어버리겠어
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0433.wav|0|우상 가져오는 걸 잊어버렸어.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0434.wav|0|만화책 잉는 거 좋아하세요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0435.wav|0|저는 그를 이글쯤은 알지만 쓸 줄은 몰라요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0436.wav|0|편의점에서 일하고 있습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0437.wav|0|하루에 몇 시간이래?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0438.wav|0|한국에 처음 했을 때 서울에서 길을 잃었습니다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0439.wav|0|많은 사람들이 태풍으로 전 재산을 이뤘어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0440.wav|0|이모한테 인사해라
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0441.wav|0|우리 신랑이랑 인사한 적 있어?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0442.wav|0|어떤 옷을 입어야 해요?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0443.wav|0|교통사고로 가슴에 상처를 입었어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0444.wav|0|길을 잃어버렸어요
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0445.wav|0|여권을 잃어버렸어요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0446.wav|0|자리에서 일어나 대통령을 맞아주십시오.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0447.wav|0|무슨 일에 일어난거야?
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0448.wav|0|이러서서 말씀해주세요.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0449.wav|0|그는 바닥을 짓고 간신이 이뤄졌다.
+/nfs/meizhengkun/vits_korean_multispeaker/data/mei/1_0450.wav|0|천천히 몸을 이륙여보세요.
