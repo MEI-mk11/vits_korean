@@ -10,7 +10,7 @@ Run preprocess.py to clean the labelled text
 
 Use make_mels.py to generate mel features
 
-Run train_ms to train, you can edit the config file to fit your needs
+Run train_ms to train(torchrun), you can edit the config file to fit your needs
 
 
 ## Process of Inference
