@@ -6,6 +6,8 @@ Run modifiy_sr.py to detect or modify the sampling rate to 22050, remember to ch
 
 Use autolabel.py to auto-recognize text and convert it to the required form
 
+cp esd.txt to filelists
+
 Run preprocess.py to clean the labelled text
 
 Use make_mels.py to generate mel features
